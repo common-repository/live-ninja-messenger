@@ -1,0 +1,7 @@
+.lnm-list {
+    list-style: disc;
+}
+.lnm-list li {
+    margin-left: 14px;
+    padding-left: 10px;
+}
